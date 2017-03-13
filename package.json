@@ -1,7 +1,7 @@
 {
   "name": "getprimes",
   "version": "1.0.0",
-  "description": "A function that takes in a number n and returns all prime numbers from 0 to n",
+  "description": "A function that takes in a number n and returns all prime numbers from 0 to n. Includes jasmine tests",
   "main": "app.js",
   "scripts": {
     "test": "jasmine"
