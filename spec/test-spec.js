@@ -1,3 +1,5 @@
+const getPrimes = require('../app.js');
+
 describe('Generate Prime Numbers from 0 to a number `n` into an array', () => {
   it('should return [] for `1`', () => {
     expect(getPrimes(1)).toEqual([]);
