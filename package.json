@@ -1,0 +1,28 @@
+{
+  "name": "getprimes",
+  "version": "1.0.0",
+  "description": "A function that takes in a number n and returns all prime numbers from 0 to n",
+  "main": "app.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/incometrader/bootcamp20-getprimes.git"
+  },
+  "keywords": [
+    "primes"
+  ],
+  "author": "Ignatius Ukwuoma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/incometrader/bootcamp20-getprimes/issues"
+  },
+  "homepage": "https://github.com/incometrader/bootcamp20-getprimes#readme",
+  "devDependencies": {
+    "eslint": "^3.17.1",
+    "eslint-config-airbnb-base": "^11.1.1",
+    "eslint-plugin-import": "^2.2.0",
+    "jasmine": "^2.5.3"
+  }
+}
